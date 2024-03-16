@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UniversityInformation\\UniversityInfoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED283480-F1E0-4CFD-86DE-B7B101DED0B8}|UniversityInfoService\\UniversityInfoService.csproj|d:\\universityinformation\\universityinfoapi\\universityinfoservice\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED283480-F1E0-4CFD-86DE-B7B101DED0B8}|UniversityInfoService\\UniversityInfoService.csproj|solutionrelative:universityinfoservice\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED283480-F1E0-4CFD-86DE-B7B101DED0B8}|UniversityInfoService\\UniversityInfoService.csproj|d:\\universityinformation\\universityinfoapi\\universityinfoservice\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED283480-F1E0-4CFD-86DE-B7B101DED0B8}|UniversityInfoService\\UniversityInfoService.csproj|solutionrelative:universityinfoservice\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07D538F-8776-4C2F-A637-8B39081C0CC4}|UniversityInformation\\UniversityInformation.csproj|d:\\universityinformation\\universityinfoapi\\universityinformation\\controllers\\filehandlingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07D538F-8776-4C2F-A637-8B39081C0CC4}|UniversityInformation\\UniversityInformation.csproj|solutionrelative:universityinformation\\controllers\\filehandlingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07D538F-8776-4C2F-A637-8B39081C0CC4}|UniversityInformation\\UniversityInformation.csproj|d:\\universityinformation\\universityinfoapi\\universityinformation\\controllers\\universityinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07D538F-8776-4C2F-A637-8B39081C0CC4}|UniversityInformation\\UniversityInformation.csproj|solutionrelative:universityinformation\\controllers\\universityinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17624C7-C835-462B-8552-F79EEEC3AEFF}|UniversityInfoRepository\\UniversityInfoRepository.csproj|d:\\universityinformation\\universityinfoapi\\universityinforepository\\interfaces\\ifilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17624C7-C835-462B-8552-F79EEEC3AEFF}|UniversityInfoRepository\\UniversityInfoRepository.csproj|solutionrelative:universityinforepository\\interfaces\\ifilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17624C7-C835-462B-8552-F79EEEC3AEFF}|UniversityInfoRepository\\UniversityInfoRepository.csproj|d:\\universityinformation\\universityinfoapi\\universityinforepository\\repositories\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17624C7-C835-462B-8552-F79EEEC3AEFF}|UniversityInfoRepository\\UniversityInfoRepository.csproj|solutionrelative:universityinforepository\\repositories\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17624C7-C835-462B-8552-F79EEEC3AEFF}|UniversityInfoRepository\\UniversityInfoRepository.csproj|d:\\universityinformation\\universityinfoapi\\universityinforepository\\repositories\\universityinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17624C7-C835-462B-8552-F79EEEC3AEFF}|UniversityInfoRepository\\UniversityInfoRepository.csproj|solutionrelative:universityinforepository\\repositories\\universityinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07D538F-8776-4C2F-A637-8B39081C0CC4}|UniversityInformation\\UniversityInformation.csproj|d:\\universityinformation\\universityinfoapi\\universityinformation\\helpers\\responsemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07D538F-8776-4C2F-A637-8B39081C0CC4}|UniversityInformation\\UniversityInformation.csproj|solutionrelative:universityinformation\\helpers\\responsemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6D4E23-D7E2-4F0C-AF74-E25F47E0F18B}|UniversityInfoCoreModel\\UniversityInfoCoreModel.csproj|d:\\universityinformation\\universityinfoapi\\universityinfocoremodel\\responsedto\\fileentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6D4E23-D7E2-4F0C-AF74-E25F47E0F18B}|UniversityInfoCoreModel\\UniversityInfoCoreModel.csproj|solutionrelative:universityinfocoremodel\\responsedto\\fileentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6D4E23-D7E2-4F0C-AF74-E25F47E0F18B}|UniversityInfoCoreModel\\UniversityInfoCoreModel.csproj|d:\\universityinformation\\universityinfoapi\\universityinfocoremodel\\responsedto\\universityinforesponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6D4E23-D7E2-4F0C-AF74-E25F47E0F18B}|UniversityInfoCoreModel\\UniversityInfoCoreModel.csproj|solutionrelative:universityinfocoremodel\\responsedto\\universityinforesponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6D4E23-D7E2-4F0C-AF74-E25F47E0F18B}|UniversityInfoCoreModel\\UniversityInfoCoreModel.csproj|d:\\universityinformation\\universityinfoapi\\universityinfocoremodel\\responsedto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6D4E23-D7E2-4F0C-AF74-E25F47E0F18B}|UniversityInfoCoreModel\\UniversityInfoCoreModel.csproj|solutionrelative:universityinfocoremodel\\responsedto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07D538F-8776-4C2F-A637-8B39081C0CC4}|UniversityInformation\\UniversityInformation.csproj|d:\\universityinformation\\universityinfoapi\\universityinformation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07D538F-8776-4C2F-A637-8B39081C0CC4}|UniversityInformation\\UniversityInformation.csproj|solutionrelative:universityinformation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17624C7-C835-462B-8552-F79EEEC3AEFF}|UniversityInfoRepository\\UniversityInfoRepository.csproj|d:\\universityinformation\\universityinfoapi\\universityinforepository\\dbmanagercontext\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17624C7-C835-462B-8552-F79EEEC3AEFF}|UniversityInfoRepository\\UniversityInfoRepository.csproj|solutionrelative:universityinforepository\\dbmanagercontext\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07D538F-8776-4C2F-A637-8B39081C0CC4}|UniversityInformation\\UniversityInformation.csproj|d:\\universityinformation\\universityinfoapi\\universityinformation\\helpers\\responsehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07D538F-8776-4C2F-A637-8B39081C0CC4}|UniversityInformation\\UniversityInformation.csproj|solutionrelative:universityinformation\\helpers\\responsehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07D538F-8776-4C2F-A637-8B39081C0CC4}|UniversityInformation\\UniversityInformation.csproj|d:\\universityinformation\\universityinfoapi\\universityinformation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F07D538F-8776-4C2F-A637-8B39081C0CC4}|UniversityInformation\\UniversityInformation.csproj|solutionrelative:universityinformation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07D538F-8776-4C2F-A637-8B39081C0CC4}|UniversityInformation\\UniversityInformation.csproj|d:\\universityinformation\\universityinfoapi\\universityinformation\\universityinformation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F07D538F-8776-4C2F-A637-8B39081C0CC4}|UniversityInformation\\UniversityInformation.csproj|solutionrelative:universityinformation\\universityinformation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UniversityInfoRepository.cs",
+              "DocumentMoniker": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInfoRepository\\Repositories\\UniversityInfoRepository.cs",
+              "RelativeDocumentMoniker": "UniversityInfoRepository\\Repositories\\UniversityInfoRepository.cs",
+              "ToolTip": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInfoRepository\\Repositories\\UniversityInfoRepository.cs",
+              "RelativeToolTip": "UniversityInfoRepository\\Repositories\\UniversityInfoRepository.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAMwDgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T11:22:38.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileHandlingController.cs",
+              "DocumentMoniker": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInformation\\Controllers\\FileHandlingController.cs",
+              "RelativeDocumentMoniker": "UniversityInformation\\Controllers\\FileHandlingController.cs",
+              "ToolTip": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInformation\\Controllers\\FileHandlingController.cs",
+              "RelativeToolTip": "UniversityInformation\\Controllers\\FileHandlingController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAewBoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T11:08:37.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IFileRepository.cs",
+              "DocumentMoniker": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInfoRepository\\Interfaces\\IFileRepository.cs",
+              "RelativeDocumentMoniker": "UniversityInfoRepository\\Interfaces\\IFileRepository.cs",
+              "ToolTip": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInfoRepository\\Interfaces\\IFileRepository.cs",
+              "RelativeToolTip": "UniversityInfoRepository\\Interfaces\\IFileRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T11:16:21.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInfoService\\Interfaces\\IFileService.cs",
+              "RelativeDocumentMoniker": "UniversityInfoService\\Interfaces\\IFileService.cs",
+              "ToolTip": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInfoService\\Interfaces\\IFileService.cs*",
+              "RelativeToolTip": "UniversityInfoService\\Interfaces\\IFileService.cs*",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAewAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T11:15:37.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UniversityInfoController.cs",
+              "DocumentMoniker": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInformation\\Controllers\\UniversityInfoController.cs",
+              "RelativeDocumentMoniker": "UniversityInformation\\Controllers\\UniversityInfoController.cs",
+              "ToolTip": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInformation\\Controllers\\UniversityInfoController.cs",
+              "RelativeToolTip": "UniversityInformation\\Controllers\\UniversityInfoController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwBkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T09:35:31.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInfoService\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "UniversityInfoService\\Services\\FileService.cs",
+              "ToolTip": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInfoService\\Services\\FileService.cs",
+              "RelativeToolTip": "UniversityInfoService\\Services\\FileService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAIAywB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T11:18:16.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileRepository.cs",
+              "DocumentMoniker": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInfoRepository\\Repositories\\FileRepository.cs",
+              "RelativeDocumentMoniker": "UniversityInfoRepository\\Repositories\\FileRepository.cs",
+              "ToolTip": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInfoRepository\\Repositories\\FileRepository.cs",
+              "RelativeToolTip": "UniversityInfoRepository\\Repositories\\FileRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T11:16:44.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResponseMessage.cs",
+              "DocumentMoniker": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInformation\\Helpers\\ResponseMessage.cs",
+              "RelativeDocumentMoniker": "UniversityInformation\\Helpers\\ResponseMessage.cs",
+              "ToolTip": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInformation\\Helpers\\ResponseMessage.cs",
+              "RelativeToolTip": "UniversityInformation\\Helpers\\ResponseMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T11:40:09.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileEntity.cs",
+              "DocumentMoniker": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInfoCoreModel\\ResponseDTO\\FileEntity.cs",
+              "RelativeDocumentMoniker": "UniversityInfoCoreModel\\ResponseDTO\\FileEntity.cs",
+              "ToolTip": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInfoCoreModel\\ResponseDTO\\FileEntity.cs",
+              "RelativeToolTip": "UniversityInfoCoreModel\\ResponseDTO\\FileEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T11:14:35.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResponseDTO.cs",
+              "DocumentMoniker": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInfoCoreModel\\ResponseDTO\\ResponseDTO.cs",
+              "RelativeDocumentMoniker": "UniversityInfoCoreModel\\ResponseDTO\\ResponseDTO.cs",
+              "ToolTip": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInfoCoreModel\\ResponseDTO\\ResponseDTO.cs",
+              "RelativeToolTip": "UniversityInfoCoreModel\\ResponseDTO\\ResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T11:53:59.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UniversityInfoResponseDTO.cs",
+              "DocumentMoniker": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInfoCoreModel\\ResponseDTO\\UniversityInfoResponseDTO.cs",
+              "RelativeDocumentMoniker": "UniversityInfoCoreModel\\ResponseDTO\\UniversityInfoResponseDTO.cs",
+              "ToolTip": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInfoCoreModel\\ResponseDTO\\UniversityInfoResponseDTO.cs",
+              "RelativeToolTip": "UniversityInfoCoreModel\\ResponseDTO\\UniversityInfoResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T11:55:14.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInformation\\Program.cs",
+              "RelativeDocumentMoniker": "UniversityInformation\\Program.cs",
+              "ToolTip": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInformation\\Program.cs",
+              "RelativeToolTip": "UniversityInformation\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:47:57.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResponseHelper.cs",
+              "DocumentMoniker": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInformation\\Helpers\\ResponseHelper.cs",
+              "RelativeDocumentMoniker": "UniversityInformation\\Helpers\\ResponseHelper.cs",
+              "ToolTip": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInformation\\Helpers\\ResponseHelper.cs",
+              "RelativeToolTip": "UniversityInformation\\Helpers\\ResponseHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:52:16.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DBManager.cs",
+              "DocumentMoniker": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInfoRepository\\DBManagerContext\\DBManager.cs",
+              "RelativeDocumentMoniker": "UniversityInfoRepository\\DBManagerContext\\DBManager.cs",
+              "ToolTip": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInfoRepository\\DBManagerContext\\DBManager.cs",
+              "RelativeToolTip": "UniversityInfoRepository\\DBManagerContext\\DBManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIAwwBUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T11:23:32.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInformation\\appsettings.json",
+              "RelativeDocumentMoniker": "UniversityInformation\\appsettings.json",
+              "ToolTip": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInformation\\appsettings.json",
+              "RelativeToolTip": "UniversityInformation\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-16T10:54:12.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UniversityInformation",
+              "DocumentMoniker": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInformation\\UniversityInformation.csproj",
+              "RelativeDocumentMoniker": "UniversityInformation\\UniversityInformation.csproj",
+              "ToolTip": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInformation\\UniversityInformation.csproj",
+              "RelativeToolTip": "UniversityInformation\\UniversityInformation.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-16T09:35:26.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
