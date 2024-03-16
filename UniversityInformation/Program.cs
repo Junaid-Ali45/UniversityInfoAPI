@@ -13,6 +13,8 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton<IUniversityInfoRepository, UniversityInfoRepository.Repositories.UniversityInfoRepository>();
 builder.Services.AddSingleton<IUniversityInfoService, UniversityInfoService.Services.UniversityInfoService>();
+builder.Services.AddSingleton<IFileRepository, UniversityInfoRepository.Repositories.FileRepository>();
+builder.Services.AddSingleton<IFileService, UniversityInfoService.Services.FileService>();
 
 builder.Services.AddCors(options =>
 {

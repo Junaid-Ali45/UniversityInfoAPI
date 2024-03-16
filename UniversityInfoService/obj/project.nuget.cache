@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ImAb7BKfvJZhvvUaWtjBa9QljcYLqi2zZmGs0WvWY8TpRIot/8T5zI5Xv7ePvWUECvAb0KyV1GGjvUOgsOSXKg==",
+  "dgSpecHash": "0MFKOrcpyE4a4AtjXVTG7pjP1q4iALbHfWLSd1uFQW6hSosPq8NuBBzVJoJaF4Kn6mt+yJgMbuWcAZxYvn5Xuw==",
   "success": true,
-  "projectFilePath": "D:\\UniversityInformation\\UniversityInformation\\UniversityInfoService\\UniversityInfoService.csproj",
+  "projectFilePath": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInfoService\\UniversityInfoService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\junai\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\junai\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

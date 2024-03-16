@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = UniversityInfoService
-build_property.ProjectDir = D:\UniversityInformation\UniversityInformation\UniversityInfoService\
+build_property.ProjectDir = D:\UniversityInformation\UniversityInfoAPI\UniversityInfoService\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

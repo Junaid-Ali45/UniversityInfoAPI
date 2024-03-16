@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U3Zo2EoF5GlsBhEzOxtkL6RCjxEKKF0K+GI3XD1iM8YlXoOSBQBno7/ZcajxNwxVVFWyaCxOygLyA+Kf8Ykd/A==",
+  "dgSpecHash": "qIh6czr1CRLxW6rz5/pTw9mnlW9ZHOIY8xvapXMBysSpI9UnI5J7bazuJlGVgWIMNq/CK+E9fljEV1oxkssKFA==",
   "success": true,
-  "projectFilePath": "D:\\UniversityInformation\\UniversityInformation\\UniversityInformation\\UniversityInformation.csproj",
+  "projectFilePath": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInformation\\UniversityInformation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\junai\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\junai\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UniversityInformation\\UniversityInformation\\UniversityInfoCoreModel\\UniversityInfoCoreModel.csproj",
+      "projectUniqueName": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInfoCoreModel\\UniversityInfoCoreModel.csproj",
       "projectName": "UniversityInfoCoreModel",
-      "projectPath": "D:\\UniversityInformation\\UniversityInformation\\UniversityInfoCoreModel\\UniversityInfoCoreModel.csproj",
+      "projectPath": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInfoCoreModel\\UniversityInfoCoreModel.csproj",
       "packagesPath": "C:\\Users\\junai\\.nuget\\packages\\",
-      "outputPath": "D:\\UniversityInformation\\UniversityInformation\\UniversityInfoCoreModel\\obj\\",
+      "outputPath": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInfoCoreModel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

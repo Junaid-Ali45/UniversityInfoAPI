@@ -20,3 +20,15 @@ D:\UniversityInformation\UniversityInformation\UniversityInfoCoreModel\obj\Debug
 D:\UniversityInformation\UniversityInformation\UniversityInfoCoreModel\obj\Debug\net8.0\refint\UniversityInfoCoreModel.dll
 D:\UniversityInformation\UniversityInformation\UniversityInfoCoreModel\obj\Debug\net8.0\UniversityInfoCoreModel.pdb
 D:\UniversityInformation\UniversityInformation\UniversityInfoCoreModel\obj\Debug\net8.0\ref\UniversityInfoCoreModel.dll
+D:\UniversityInformation\UniversityInfoAPI\UniversityInfoCoreModel\bin\Debug\net8.0\UniversityInfoCoreModel.deps.json
+D:\UniversityInformation\UniversityInfoAPI\UniversityInfoCoreModel\bin\Debug\net8.0\UniversityInfoCoreModel.dll
+D:\UniversityInformation\UniversityInfoAPI\UniversityInfoCoreModel\bin\Debug\net8.0\UniversityInfoCoreModel.pdb
+D:\UniversityInformation\UniversityInfoAPI\UniversityInfoCoreModel\obj\Debug\net8.0\UniversityInfoCoreModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\UniversityInformation\UniversityInfoAPI\UniversityInfoCoreModel\obj\Debug\net8.0\UniversityInfoCoreModel.AssemblyInfoInputs.cache
+D:\UniversityInformation\UniversityInfoAPI\UniversityInfoCoreModel\obj\Debug\net8.0\UniversityInfoCoreModel.AssemblyInfo.cs
+D:\UniversityInformation\UniversityInfoAPI\UniversityInfoCoreModel\obj\Debug\net8.0\UniversityInfoCoreModel.csproj.CoreCompileInputs.cache
+D:\UniversityInformation\UniversityInfoAPI\UniversityInfoCoreModel\obj\Debug\net8.0\UniversityInfoCoreModel.sourcelink.json
+D:\UniversityInformation\UniversityInfoAPI\UniversityInfoCoreModel\obj\Debug\net8.0\UniversityInfoCoreModel.dll
+D:\UniversityInformation\UniversityInfoAPI\UniversityInfoCoreModel\obj\Debug\net8.0\refint\UniversityInfoCoreModel.dll
+D:\UniversityInformation\UniversityInfoAPI\UniversityInfoCoreModel\obj\Debug\net8.0\UniversityInfoCoreModel.pdb
+D:\UniversityInformation\UniversityInfoAPI\UniversityInfoCoreModel\obj\Debug\net8.0\ref\UniversityInfoCoreModel.dll

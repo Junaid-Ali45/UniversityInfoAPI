@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y/6DR/jlrLDyvpr5cR5GJshiDPy17VHDMRA+MBKpmHVOlOTavJ0nOQ3wFq04ksryaf59xJkPy1h7LNFW2VRoBg==",
+  "dgSpecHash": "k8cGx4weE+v61ULGE4JY3pDjxvRdb6dFu4C9tjdvTFeEii6W7ZkOIuqol0EyzYrCl/qllNpyH9QqT5NB/8qsUQ==",
   "success": true,
-  "projectFilePath": "D:\\UniversityInformation\\UniversityInformation\\UniversityInfoCoreModel\\UniversityInfoCoreModel.csproj",
+  "projectFilePath": "D:\\UniversityInformation\\UniversityInfoAPI\\UniversityInfoCoreModel\\UniversityInfoCoreModel.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
